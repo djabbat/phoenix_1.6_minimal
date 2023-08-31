@@ -1,5 +1,8 @@
 # HelloApp
 
+img ![image](https://github.com/djabbat/phoenix_minimal/assets/8047668/e890d11a-b84e-44b9-8e1f-41df05132da6)
+
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
